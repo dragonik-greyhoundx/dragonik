@@ -1,0 +1,6 @@
+#footbar {
+    display: flex;
+    flex-direction: row;
+    height: 7vh;
+    width: 100%;
+}
